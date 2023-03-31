@@ -1,6 +1,6 @@
 <h2 class="r-fit-text" style="text-align: center"> Modelos de lenguaje en educación </h2>
 
-<img class="r-stretch" style="text-align: center" src="assets/ai-education.png">
+<img class="r-stretch" style="text-align: center" src="assets/image-cover-1.png">
 
 ---
 
