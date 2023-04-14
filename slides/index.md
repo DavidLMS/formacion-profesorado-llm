@@ -1,6 +1,6 @@
 <h2 class="r-fit-text" style="text-align: center"> Modelos de lenguaje en educación </h2>
 
-<img class="r-stretch" style="text-align: center" src="assets/image-cover-1.png">
+<img class="r-stretch" style="text-align: center" src="../assets/cover.png">
 
 ---
 ## ¿Qué ha pasado el último año?
@@ -33,7 +33,7 @@ Posibilidad de fine-tuning (reentrenamiento) <!-- .element: class="fragment" -->
 
 ## La analogía del estudiante
 
-FOTO
+<img class="r-stretch" style="text-align: center" src="../assets/student.png">
 
 
 Fase de estudio (entrenamiento) <!-- .element: class="fragment" -->
