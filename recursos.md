@@ -12,6 +12,7 @@
 * [Solicitud de proyectos]()
 * [Redacción de correos electrónicos]()
 * [Elaboración de actas]()
+* [Redacción de autorizaciones]()
 
 ### Ejemplos de uso en diferentes materias
 
