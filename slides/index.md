@@ -3,7 +3,92 @@
 <img class="r-stretch" style="text-align: center" src="assets/image-cover-1.png">
 
 ---
+## ¿Qué ha pasado el último año?
 
+Disrupción en tecnologías de creación de contenido basadas en IA <!-- .element: class="fragment" -->
+
+Imagen, audio, vídeo y texto <!-- .element: class="fragment" -->
+
+De GPT-3 (2020) a GPT-3.5 (ChatGPT, 30 de noviembre de 2022) <!-- .element: class="fragment" -->
+---
+## ¿Qué es un LLM?
+
+Large Language Model <!-- .element: class="fragment" -->
+
+Del Machine Learning al Deep Learning <!-- .element: class="fragment" -->
+
+
+## GPT
+
+Objetivo: Completar texto <!-- .element: class="fragment" -->
+
+Objetivos intermedios: traducción, generación de código de programación... (puede ser peligroso)<!-- .element: class="fragment" -->
+
+Alucionaciones y cadenas de pensamiento <!-- .element: class="fragment" -->
+
+Mejor con contexto <!-- .element: class="fragment" -->
+
+Posibilidad de fine-tuning (reentrenamiento) <!-- .element: class="fragment" -->
+
+
+## La analogía del estudiante
+
+FOTO
+
+
+Fase de estudio (entrenamiento) <!-- .element: class="fragment" -->
+
+Una petición es un examen (no recuerda exámenes anteriores) <!-- .element: class="fragment" -->
+
+Puede tratar de responder lo que no sabe (alucinaciones) <!-- .element: class="fragment" -->
+
+Le puedes dar pistas en el enunciado (contexto) <!-- .element: class="fragment" -->
+
+Puede volver a la habitación y centrarse en un tema concreto (fine-tuning) <!-- .element: class="fragment" -->
+---
+## ¿Qué ha pasado desde la salida de ChatGPT?
+
+Explosión de nuevas herramientas: <!-- .element: class="fragment" -->
+
+Bing Chat (Microsoft) <!-- .element: class="fragment" -->
+
+Office Copilot (Microsoft) <!-- .element: class="fragment" -->
+
+ChatGPT Plugins (OpenAI) <!-- .element: class="fragment" -->
+
+Herramientas de terceros <!-- .element: class="fragment" -->
+
+
+## GPT-4 (14 de marzo)
+
+[Capacidades y comparativa](https://openai.com/product/gpt-4) <!-- .element: class="fragment" -->
+
+Solamente accesible usando la suscripción (y de forma limitada) <!-- .element: class="fragment" -->
+
+Aún no se ha dado acceso a todo lo que puede hacer <!-- .element: class="fragment" -->
+
+Actualización prácticamente automática de las herramientas anteriores <!-- .element: class="fragment" -->
+
+
+## Agentes autónomos
+---
+## ¿Qué cambia esto en educación?
+
+Cambia todo, pero no solo en educación <!-- .element: class="fragment" -->
+
+Nuevo reto y en búsqueda de nuevas soluciones <!-- .element: class="fragment" -->
+
+Se duplica la potencia cada 6 meses <!-- .element: class="fragment" -->
+
+No es fácil de detectar su uso <!-- .element: class="fragment" -->
+
+
+## Ejemplos de uso
+
+Conversaciones que te hacen ser más productivo <!-- .element: class="fragment" -->
+
+Herramientas temporales útiles <!-- .element: class="fragment" -->
+---
 ## Introducción
 
 1. Presentación de la formación y objetivos <!-- .element: class="fragment" -->
