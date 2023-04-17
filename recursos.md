@@ -8,14 +8,14 @@
 
 * [Elaboración y actualización de programación didáctica]()
 * [Diseño de situaciones de aprendizaje]()
-* [Comunicación en redes sociales]()
+* [Comunicación en redes sociales](X)
 * [Solicitud de proyectos]()
 * [Redacción de correos electrónicos](X)
 * [Elaboración de actas]()
 * [Redacción de autorizaciones]()
 * [Diseño de tareas]()
 * [Guiones de proyectos]()
-* [Exámenes]()
+* [Exámenes](X)
 * [Rúbricas]()
 * [Correcciones]()
 
