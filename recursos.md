@@ -28,6 +28,7 @@
 
 * [Bing Chat: ChatGPT conectado a Internet para responder citando las fuentes](https://www.microsoft.com/es-es/bing)
 * [ChatPDF: Haz preguntas sobre un PDF](https://www.chatpdf.com)
+* [DropChat: Chatea sobre cualquier libro, página web o archivo](https://app.dropchat.co)
 * [SlidesAI: Creación de diapositivas](https://workspace.google.com/marketplace/app/slidesaiio_create_slides_with_ai/904276957168)
 * [Fireflies: Toma las notas de la reunión en videoconferencias](https://fireflies.ai)
 * [Bing Image Creator: Crea imágenes a partir de texto](https://www.bing.com/create)
