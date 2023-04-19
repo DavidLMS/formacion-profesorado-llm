@@ -6,23 +6,20 @@
 
 ### Productividad en el trabajo docente
 
-* [Elaboración y actualización de programación didáctica]()
-* [Diseño de situaciones de aprendizaje]()
-* [Comunicación en redes sociales](X)
-* [Solicitud de proyectos]()
-* [Redacción de correos electrónicos](X)
-* [Elaboración de actas]()
-* [Redacción de autorizaciones]()
-* [Diseño de tareas]()
-* [Guiones de proyectos]()
-* [Exámenes](X)
+* [Programaciones didácticas](./chats/programaciondidactica.html)
+* [Situaciones de aprendizaje](./chats/situacionaprendizaje.html)
+* [Tareas](./chats/tareas.html)
+* [Exámenes](./chats/examenes.html)
+* [Proyectos]()
 * [Rúbricas]()
 * [Correcciones]()
+* [Correos electrónicos](./chats/email.html)
+* [Publicaciones en redes sociales](./chats/rrss.html)
 
 ### Sobre GPT-4
 
-* [¿Tiene creatividad?](X)
-* [¿Tiene capacidad de razonamiento?](X)
+* [¿Parece que tiene creatividad?](./chats/creatividad.html)
+* [¿Parece que tiene capacidad de razonamiento?](./chats/razonamiento.html)
 
 ## Herramientas temporales
 
