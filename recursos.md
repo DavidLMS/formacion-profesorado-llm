@@ -1,6 +1,8 @@
 # Recursos
 
-<img class="r-stretch" style="text-align: center" src="assets/resources.png">
+<p align="center">
+<img src="https://github.com/davidlms/formacion-profesorado-llm/blob/main/assets/resources.png?raw=true" alt="Logo" width="400">
+</p>
 
 ## Conversaciones con GPT-4
 
