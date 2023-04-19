@@ -1,7 +1,7 @@
 # Formación del profesorado en LLMs
 
 <p align="center">
-<img src="https://github.com/davidlms/formacion-profesorado-llm/blob/main/assets/resources.png?raw=true" alt="Logo">
+<img src="https://github.com/davidlms/formacion-profesorado-llm/blob/main/assets/resources.png?raw=true" alt="Logo" width="400">
 </p>
 
 <p align="center">
