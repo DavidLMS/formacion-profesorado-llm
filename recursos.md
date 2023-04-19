@@ -10,9 +10,9 @@
 * [Situaciones de aprendizaje](./chats/situacionaprendizaje.html)
 * [Tareas](./chats/tareas.html)
 * [Exámenes](./chats/examenes.html)
-* [Proyectos]()
-* [Rúbricas]()
-* [Correcciones]()
+* [Proyectos](./chats/proyectos.html)
+* [Rúbricas](./chats/rubricas.html)
+* [Correcciones](./chats/correcciones.html)
 * [Correos electrónicos](./chats/email.html)
 * [Publicaciones en redes sociales](./chats/rrss.html)
 
