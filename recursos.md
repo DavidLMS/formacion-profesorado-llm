@@ -32,7 +32,7 @@
 * [Fireflies: Toma las notas de la reunión en videoconferencias](https://fireflies.ai)
 * [Bing Image Creator: Crea imágenes a partir de texto](https://www.bing.com/create)
 * [Explainpaper: Explica el contenido de un paper](https://www.explainpaper.com)
-* [Consensus: Explica el estado del arte de un tema mostrándote y explicando los papers más relevantes](https://consensus.app/search/)
+* [Consensus: Explica el estado del arte de un tema mostrándote y explicando los papers más relevantes](https://consensus.app)
 
 ## Quiero ir más allá
 
