@@ -44,3 +44,4 @@
 * [Generative Agents: Interactive Simulacra of Human Behavior](https://arxiv.org/abs/2304.03442)
 * [HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in HuggingFace](https://arxiv.org/abs/2303.17580)
 * [5 CLAVES que harán a GPT-4 mucho MÁS POTENTE](https://www.youtube.com/watch?v=rXU9pkk0dQI)
+* [Curso Generative AI for everyone](https://www.coursera.org/learn/generative-ai-for-everyone)

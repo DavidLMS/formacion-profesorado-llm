@@ -132,6 +132,12 @@ Herramientas temporales útiles <!-- .element: class="fragment" -->
 
 <small>Fuente: https://www.genbeta.com/actualidad/ceo-openai-cree-que-este-sera-unico-empleo-que-no-sera-reemplazado-chatgpt-u-otra-ia</small>
 ---
+## Acceso a los materiales
+
+<img class="r-stretch" style="text-align: center" src="../assets/qr.png">
+
+<small>https://davidlms.github.io/formacion-profesorado-llm/</small>
+---
 <!-- .slide: data-background-video="../assets/searching.mp4" data-background-opacity="0.6" data-background-video-loop data-background-video-muted-->
 <!-- .slide: data-background-video="../assets/searching.mp4" data-background-opacity="0.6" data-background-video-loop data-background-video-muted-->
 
