@@ -13,7 +13,7 @@
     </a>
 </p>
 
-Repositorio para alojar materiales de la formación al profesorado sobre LLMs en abril de 2023.
+Repositorio para alojar materiales de la formación al profesorado sobre LLMs.
 
 * [Diapositivas](slides/index.html)
 * [Recursos](recursos.md)
