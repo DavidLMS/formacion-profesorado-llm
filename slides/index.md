@@ -3,14 +3,14 @@
 <img class="r-stretch" style="text-align: center" src="../assets/cover.png">
 
 ---
-## ¿Qué ha pasado el último año?
+## ¿Qué ha pasado en los dos últimos años?
 
 <img class="r-stretch" style="text-align: center" src="../assets/generative-ai.png">
 
 
 Disrupción en tecnologías de creación de contenido basadas en IA
 
-Imagen, audio, vídeo y texto <!-- .element: class="fragment" -->
+Imagen, audio, vídeo, 3D y texto <!-- .element: class="fragment" -->
 
 De GPT-3 (2020) a GPT-3.5 (ChatGPT, 30 de noviembre de 2022) <!-- .element: class="fragment" -->
 ---
@@ -48,9 +48,12 @@ Una petición es un examen (no recuerda exámenes anteriores) <!-- .element: cla
 
 Puede tratar de responder lo que no sabe (alucinaciones) <!-- .element: class="fragment" -->
 
-Le puedes dar pistas en el enunciado (contexto) <!-- .element: class="fragment" -->
+Le puedes dar pistas en el enunciado (contexto), pero su longitud es limitada (número de tokens) <!-- .element: class="fragment" -->
 
 Puede volver a la habitación y centrarse en un tema concreto (fine-tuning) <!-- .element: class="fragment" -->
+
+
+## ¿Qué pasa si se le dan herramientas al estudiante?
 ---
 ## ¿Qué ha pasado desde la salida de ChatGPT?
 
@@ -74,7 +77,7 @@ Herramientas de terceros <!-- .element: class="fragment" -->
 
 Solamente accesible usando la suscripción (y de forma limitada) <!-- .element: class="fragment" -->
 
-Aún no se ha dado acceso a todo lo que puede hacer <!-- .element: class="fragment" -->
+Características: Modelo más potente, puede responder sobre imágenes, tools (búsqueda en Internet, ejecución de código, generación de imágenes y acceso a plugins de terceros)<!-- .element: class="fragment" -->
 
 Actualización prácticamente automática de las herramientas anteriores <!-- .element: class="fragment" -->
 
@@ -94,9 +97,26 @@ Cambia todo, no solo en educación
 
 Nuevo reto y en búsqueda de nuevas soluciones <!-- .element: class="fragment" -->
 
-Se estima que se duplica la potencia cada 6 meses <!-- .element: class="fragment" -->
+El crecimiento está siendo exponencial <!-- .element: class="fragment" -->
 
 No es fácil de detectar su uso <!-- .element: class="fragment" -->
+
+
+## ¿Tienen sentido las tareas?
+
+<img class="r-stretch" style="text-align: center" src="../assets/chatgpt-homework.jpeg">
+
+<small>Fuente: https://twitter.com/petergyang/status/1707119323729580416¡</small>
+
+
+<video width="300" src="../assets/chatgpt-cell.mp4" controls></video>
+
+<small>Fuente: https://twitter.com/mckaywrigley/status/1707408491110080602</small>
+
+
+<img class="r-stretch" style="text-align: center" src="../assets/blog.png">
+
+<small>https://davidlms.com</small>
 
 
 ## Ejemplos de uso
@@ -104,7 +124,15 @@ No es fácil de detectar su uso <!-- .element: class="fragment" -->
 Conversaciones que te hacen ser más productivo <!-- .element: class="fragment" -->
 
 Herramientas temporales útiles <!-- .element: class="fragment" -->
+
+
+## ¿Acabará la IA con la docencia?
+
+<img class="r-stretch" style="text-align: center" src="../assets/sustituidos.png">
+
+<small>Fuente: https://www.genbeta.com/actualidad/ceo-openai-cree-que-este-sera-unico-empleo-que-no-sera-reemplazado-chatgpt-u-otra-ia</small>
 ---
+<!-- .slide: data-background-video="../assets/searching.mp4" data-background-opacity="0.6" data-background-video-loop data-background-video-muted-->
 <!-- .slide: data-background-video="../assets/searching.mp4" data-background-opacity="0.6" data-background-video-loop data-background-video-muted-->
 
 ## ¿Dudas?
