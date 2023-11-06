@@ -87,6 +87,8 @@ Actualización prácticamente automática de las herramientas anteriores <!-- .e
 Auto-GPT <!-- .element: class="fragment" -->
 
 Generative Agents: Interactive Simulacra of Human Behavior <!-- .element: class="fragment" -->
+
+GPTs <!-- .element: class="fragment" -->
 ---
 ## ¿Qué cambia esto en educación?
 
